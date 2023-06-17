@@ -8,49 +8,35 @@ const frontEnd = [
     id: 1,
     image: '/assets/portfolio1.jpg',
     title: 'Food Recipe App',
-    github: 'https://marwanmohamedrefaei.github.io/FoodApp/',
+    github: 'https://foodappmoataz.onrender.com', 
     skills:'Html - SCSS - React'
   },
   {
     id: 2,
     image: '/assets/portfolio2.jpg',
     title: 'Movies App',
-    github: 'https://marwanmohamedrefaei.github.io/MoviesApp/',
+    github: 'https://moiveapp.onrender.com',
     skills:'Html - CSS - JavaScript - JQuery'
   },
   {
     id: 3,
     image: '/assets/portfolio3.jpg',
     title: 'Construction App',
-    github: 'https://marwanmohamedrefaei.github.io/StarConstructionApp/',
+    github: 'https://starconstrucion.onrender.com',
     skills:'Html - SCSS - JavaScript'
   },
   {
     id: 4,
     image: '/assets/portfolio4.jpg',
     title: 'Home App',
-    github: 'https://marwanmohamedrefaei.github.io/House-Agency/',
+    github: 'https://houseagency.onrender.com',
     skills:'Html - CSS - JavaScript - JQuery'
-  },
-  {
-    id: 5,
-    image: '/assets/portfolio5.jpg',
-    title: 'Elixir App',
-    github: 'https://marwanmohamedrefaei.github.io/Elixir/',
-    skills:'Html - CSS - JavaScript -Bootstrap'
-  },
-  {
-    id: 6,
-    image: '/assets/portfolio6.jpg',
-    title: 'Social Media App',
-    github: 'https://marwanmohamedrefaei.github.io/SocialMediaApp/',
-    skills:'Html - React - MaterialUI'
   },
   {
     id: 7,
     image: '/assets/portfolio7.jpg',
     title: 'Captur App',
-    github: 'https://captur-khpgcipjx-marwanmohamedrefaei.vercel.app/',
+    github: 'https://capture-moataz-mohamedd.vercel.app/',
     skills:'Html -NextJs - Tailwind'
   }
 ]

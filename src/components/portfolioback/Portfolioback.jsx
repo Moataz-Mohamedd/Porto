@@ -8,14 +8,14 @@ const backEnd = [
     id: 1,
     image: '/assets/backend1.jpg',
     title: 'Memories App',
-    github: 'https://memories-app-marwan2022.herokuapp.com/',
+    github: 'https://memories-2pcz.onrender.com',
     skills:'Mongo-Express-React-NodeMaterialUI-AuthenticationAuthorization-JWT-Cookies-SessionTimeOut'
   },
   {
     id: 2,
     image: '/assets/backend2.jpg',
     title: 'Coffee Shop App',
-    github: 'https://marwancoffeeshop.herokuapp.com/',
+    github: 'https://coffeshopp.onrender.com/',
     skills:'Mongodb-Express-React-Node'
   },
   // {
