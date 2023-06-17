@@ -12,6 +12,13 @@ const frontEnd = [
     skills:'Html - SCSS - React'
   },
   {
+    id: 6,
+    image: '/assets/portfolio6.jpg',
+    title: 'Real State',
+    github: 'https://realstate-0m60.onrender.com',
+    skills:'Html - CSS - JavaScript - React- Tailwind'
+  },
+  {
     id: 2,
     image: '/assets/portfolio2.jpg',
     title: 'Movies App',
